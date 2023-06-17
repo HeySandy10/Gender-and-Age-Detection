@@ -1,6 +1,4 @@
-# Gender-and-Age-Detection
-A Python project that utilizes OpenCV to detect the Gender and Age of a person(face) in a picture or through a webcam.
-Objective :
+OBJECTIVE:
 To build a gender and age detector that can approximately guess the gender and age of the person (face) in a picture or through webcam.
 
 About the Project :
